@@ -546,6 +546,701 @@ https://www.googleapis.com/drive/v3/files/1ozmyuiroKSHivVxffDwQUzic-iKOxTOV?alt=
 https://www.googleapis.com/drive/v3/files/1N5sAhIi50nTxIZQVDw9H_w5UpNjquLfE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 #EXTINF:0,John Wick Chapter 3 â#EXTVLCOPT:network-caching=1000 
 https://www.googleapis.com/drive/v3/files/1T-Kzf4jZTolDkVjwv2kePDDkksq1xE8f?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+###########VOD NEW############
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Prodigy (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-29-2020/The.Prodigy.2019.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Story of Ricky (1991)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Riki-Oh.The.Story.of.Ricky.1991.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Cold Prey II (2008)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Fritt.Vilt.2.2008.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",My Soul to Take (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Hannibal (2001)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Hannibal.2001.REMASTERED.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Dark (2018)
+https://bitball.se/movies/APRIL/04-26-2020/The.Dark.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Polaroid (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/Polaroid.2019.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",A Girl Walks Home Alone at Night (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/A.Girl.Walks.Home.Alone.at.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Shallows (2016)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/The.Shallows.2016.720p.UHD.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Killer Sofa (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Killer.Sofa.2019.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Flatliners (1990)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Flatliners.1990.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Blade II (2002)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.II.2002.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Blade (1998)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.1998.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Perfection (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/The.Perfection.2018.480p.NF.WEB-DL.x264.300MB-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Zoo (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Den (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Salò -  or the 120 Days of Sodom (1975)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Poker Night (2014)
+https://bitball.se/movies/APRIL/04-22-2020/Poker.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Await Further Instructions (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Await.Further.Instructions.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Us (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/us.2019.480p.bluray.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Funny Games (1997)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/Funny.Games.1997.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Another (2012)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/ANOTHER.2012.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",12 Feet Deep (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/12.Feet.Deep.2017.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Ginger Snaps (2000)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Evil Angel (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Evil.Angel.2009.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Near Dark (1987)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Near.Dark.1987.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Mutant Girls Squad (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Mutant.Girls.Squad.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Leprechaun Returns (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Leprechaun.Returns.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Isabelle (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Isabelle.2019.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Tokyo Slaves (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tokyo.Slaves.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",The Innocents (1961)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/The.Innocents.1961.REMASTERED.480p.BluRay.X264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Antichrist (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/Antichrist.2009.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Book of Monsters (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Silent House (2011)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Silent.House.2011.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Piranha (1978)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Piranha.1978.Remastered.720p.BluRay.x26.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Horns (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-08-2020/Horns.2013.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Inhuman Kiss (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-06-2020/Inhuman.Kiss.2019.480p.NF.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Granny of the Dead (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-03-2020/Granny.of.the.Dead.2017.480p.WEB-HD.x264.300MB-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2gnkBY/zalogic.jpg"  group-title="VOD",Vampire Hunter D: Bloodlust (2000)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/Vampire.Hunter.D.Bloodlust.2000.480p.BluRay.x264.300MB-Pahe.mp4
+
+#EXTINF:-1 group-title="VOD HD",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:-1 group-title="VOD HD",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 group-title="VOD HD",Wonder Woman (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 group-title="VOD HD",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="VOD HD",Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:-1 group-title="VOD HD",Nocturnal Animals (2016)
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="VOD HD",Rogue One: A Star Wars Story (2016)
+http://deadlyblogger.com/NewRelease/rogue1.mp4
+#EXTINF:-1 group-title="VOD HD",Rules Don't Apply (2016)
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="VOD HD",X-Men: Apocalypse (2016)
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:-1 group-title="VOD HD",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+#EXTINF:-1 group-title="VOD HD",The Hateful Eight (2015)
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:-1 group-title="VOD HD",The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:-1 group-title="VOD HD",A Haunted House 2 (2014)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 group-title="VOD HD",Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD HD",Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:-1 group-title="VOD HD",Get on Up (2014)
+http://deadlyblogger.com/NewRelease/getonup.mp4
+#EXTINF:-1 group-title="VOD HD",Guardians of the Galaxy (2014)
+http://deadlyblogger.com/NewRelease/guardians2014.mp4
+#EXTINF:-1 group-title="VOD HD",John Wick (2014)
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+#EXTINF:-1 group-title="VOD HD",Madea's Neighbors from Hell (2014)
+http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
+#EXTINF:-1 group-title="VOD HD",Maleficent (2014)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1 group-title="VOD HD",Mr. Peabody & Sherman (2014)
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 group-title="VOD HD",Need for Speed (2014)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1 group-title="VOD HD",Non-Stop (2014)
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:-1 group-title="VOD HD",Paranormal Activity: The Marked Ones (2014)
+http://www.deadlyblogger.com/NewRelease/markedones.mp4
+#EXTINF:-1 group-title="VOD HD",Pompeii (2014)
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+#EXTINF:-1 group-title="VOD HD",Ride Along (2014)
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+#EXTINF:-1 group-title="VOD HD",Rio 2 (2014)
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="VOD HD",School Dance (2014)
+http://www.deadlyblogger.com/NewRelease/schooldance.mp4
+#EXTINF:-1 group-title="VOD HD",Taken 3 (2014)
+http://deadlyblogger.com/NewRelease/taken3.mp4
+#EXTINF:-1 group-title="VOD HD",The Amazing Spider-Man 2 (2014)
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+#EXTINF:-1 group-title="VOD HD",The Lego Movie (2014)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 group-title="VOD HD",The Pirate Fairy (2014)
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 group-title="VOD HD",The Single Moms Club (2014)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1 group-title="VOD HD",Veronica Mars (2014)
+http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
+#EXTINF:-1 group-title="VOD HD",12 Years a Slave (2013)
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 group-title="VOD HD",47 Ronin (2013)
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 group-title="VOD HD",Afflicted (2013)
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 group-title="VOD HD",After Earth (2013)
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 group-title="VOD HD",American Hustle (2013)
+http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:-1 group-title="VOD HD",Anchorman 2: The Legend Continues (2013)
+http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 group-title="VOD HD",Bad Grandpa (2013)
+http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 group-title="VOD HD",Battle of the Year (2013)
+http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
+#EXTINF:-1 group-title="VOD HD",Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+#EXTINF:-1 group-title="VOD HD",Delivery Man (2013)
+http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 group-title="VOD HD",Empire State (2013)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1 group-title="VOD HD",Epic (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 group-title="VOD HD",Escape Plan (2013)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1 group-title="VOD HD",Free Birds (2013)
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+#EXTINF:-1 group-title="VOD HD",Frozen (2013)
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 group-title="VOD HD",Furious 6 (2013)
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+#EXTINF:-1 group-title="VOD HD",Grown Ups 2 (2013)
+http://www.deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 group-title="VOD HD",Grudge Match (2013)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1 group-title="VOD HD",Identity Thief (2013)
+http://www.deadlyblogger.com/NewRelease/identitythief.mp4
+#EXTINF:-1 group-title="VOD HD",Insidious - Chapter 2 (2013)
+http://www.deadlyblogger.com/NewRelease/insidious2.mp4
+#EXTINF:-1 group-title="VOD HD",Iron Man 3 (2013)
+http://www.deadlyblogger.com/NewRelease/ironman3.mp4
+#EXTINF:-1 group-title="VOD HD",Kevin Hart: Let Me Explain (2013)
+http://www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 group-title="VOD HD",Kick-Ass 2 (2013)
+http://www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 group-title="VOD HD",Killing Season (2013)
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 group-title="VOD HD",Last Vegas (2013)
+http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 group-title="VOD HD",Lego Star Wars: The Yoda Chronicles (2013)
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="VOD HD",Man of Steel (2013)
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 group-title="VOD HD",Man of Tai Chi (2013)
+http://www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 group-title="VOD HD",Monsters University (2013)
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="VOD HD",Now You See Me (2013)
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 group-title="VOD HD",Olympus Has Fallen (2013)
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 group-title="VOD HD",Prisoners (2013)
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 group-title="VOD HD",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD HD",Repentance (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="VOD HD",Runner Runner (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="VOD HD",Saving Mr. Banks (2013)
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 group-title="VOD HD",Star Trek: Into Darkness (2013)
+http://deadlyblogger.com/NewRelease/darkness.mp4
+#EXTINF:-1 group-title="VOD HD",The Bling Ring (2013)
+http://www.deadlyblogger.com/NewRelease/blingring.mp4
+#EXTINF:-1 group-title="VOD HD",The Call (2013)
+http://www.deadlyblogger.com/NewRelease/thecall.mp4
+#EXTINF:-1 group-title="VOD HD",The Conjuring (2013)
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 group-title="VOD HD",The Grandmaster (2013)
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+#EXTINF:-1 group-title="VOD HD",The Family (2013)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1 group-title="VOD HD",The Hangover Part III (2013)
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+#EXTINF:-1 group-title="VOD HD",The Heat (2013)
+http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 group-title="VOD HD",The Hobbit: The Desolation of Smaug (2013)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1 group-title="VOD HD",The Hunger Games: Catching Fire (2013)
+http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
+#EXTINF:-1 group-title="VOD HD",The Internship (2013)
+http://www.deadlyblogger.com/NewRelease/internship2013.mp4
+#EXTINF:-1 group-title="VOD HD",The Jungle Book: Return 2 the Jungle (2013)
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 group-title="VOD HD",The Mortal Instruments: City of Bones (2013)
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+#EXTINF:-1 group-title="VOD HD",The Starving Games (2013)
+http://www.deadlyblogger.com/NewRelease/starving2013.mp4
+#EXTINF:-1 group-title="VOD HD",The Smurfs 2 (2013)
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+#EXTINF:-1 group-title="VOD HD",The Wolf of Wall Street (2013)
+http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
+#EXTINF:-1 group-title="VOD HD",The Wolverine (2013)
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1 group-title="VOD HD",This Is the End (2013)
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 group-title="VOD HD",Toy Story of Terror (2013)
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="VOD HD",Turbo (2013)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 group-title="VOD HD",We're the Millers (2013)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 group-title="VOD HD",World War Z (2013)
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 group-title="VOD HD",Flight (2012)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="VOD HD",Men in Black 3 (2012)
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 group-title="VOD HD",Pitch Perfect (2012)
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 group-title="VOD HD",Project X (2012)
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 group-title="VOD HD",Prometheus (2012)
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 group-title="VOD HD",Safe House (2012)
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 group-title="VOD HD",Spring Breakers (2012)
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 group-title="VOD HD",The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 group-title="VOD HD",The Hobbit: An Unexpected Journey (2012)
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 group-title="VOD HD",The Hunger Games (2012)
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 group-title="VOD HD",This Is 40 (2012)
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 group-title="VOD HD",Think Like a Man (2012)
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 group-title="VOD HD",Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn 5: Bloodlines (2012)
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 group-title="VOD HD",Fast Five (2011)
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 group-title="VOD HD",King of Paper Chasin' (2011)
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 group-title="VOD HD",Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 group-title="VOD HD",The Girl with the Dragon Tattoo (2011)
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 group-title="VOD HD",The Grey (2011)
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 group-title="VOD HD",The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 group-title="VOD HD",The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 group-title="VOD HD",The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 group-title="VOD HD",Transformers: Dark of the Moon (2011)
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn 4 - Bloody Beginnings (2011)
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 group-title="VOD HD",X: First Class (2011)
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 group-title="VOD HD",Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 group-title="VOD HD",Grown Ups (2010)
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 group-title="VOD HD",Hot Tub Time Machine (2010)
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 group-title="VOD HD",Insidious (2010)
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 group-title="VOD HD",Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 group-title="VOD HD",Jackass 3D (2010)
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 group-title="VOD HD",Saw 3D - The Final Chapter (2010)
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 group-title="VOD HD",Tangled (2010)
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="VOD HD",The Next Three Days (2010)
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="VOD HD",The Other Guys (2010)
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 group-title="VOD HD",This Is the End (2013)
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 group-title="VOD HD",Toy Story of Terror (2013)
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="VOD HD",Turbo (2013)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 group-title="VOD HD",We're the Millers (2013)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 group-title="VOD HD",World War Z (2013)
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 group-title="VOD HD",Flight (2012)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="VOD HD",Men in Black 3 (2012)
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 group-title="VOD HD",Pitch Perfect (2012)
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 group-title="VOD HD",Project X (2012)
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 group-title="VOD HD",Prometheus (2012)
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 group-title="VOD HD",Safe House (2012)
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 group-title="VOD HD",Spring Breakers (2012)
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 group-title="VOD HD",The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 group-title="VOD HD",The Hobbit: An Unexpected Journey (2012)
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 group-title="VOD HD",The Hunger Games (2012)
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 group-title="VOD HD",This Is 40 (2012)
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 group-title="VOD HD",Think Like a Man (2012)
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 group-title="VOD HD",Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn 5: Bloodlines (2012)
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 group-title="VOD HD",Fast Five (2011)
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 group-title="VOD HD",King of Paper Chasin' (2011)
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 group-title="VOD HD",Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 group-title="VOD HD",The Girl with the Dragon Tattoo (2011)
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 group-title="VOD HD",The Grey (2011)
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 group-title="VOD HD",The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 group-title="VOD HD",The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 group-title="VOD HD",The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 group-title="VOD HD",Transformers: Dark of the Moon (2011)
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn 4 - Bloody Beginnings (2011)
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 group-title="VOD HD",X: First Class (2011)
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 group-title="VOD HD",Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 group-title="VOD HD",Grown Ups (2010)
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 group-title="VOD HD",Hot Tub Time Machine (2010)
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 group-title="VOD HD",Insidious (2010)
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 group-title="VOD HD",Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 group-title="VOD HD",Jackass 3D (2010)
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 group-title="VOD HD",Saw 3D - The Final Chapter (2010)
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 group-title="VOD HD",Tangled (2010)
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="VOD HD",The Next Three Days (2010)
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 group-title="VOD HD",The Other Guys (2010)
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 group-title="VOD HD",The Social Network (2010)
+https://archive.org/download/TheSocialNetwork2010720pBrRipX264700MBYIFY/The%20Social%20Network%20(2010)%20720p%20BrRip%20x264%20-%20700MB%20-%20YIFY.mp4
+#EXTINF:-1 group-title="VOD HD",Unstoppable (2010)
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 group-title="VOD HD",A Christmas Carol (2009)
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 group-title="VOD HD",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Fast & Furious (2009)
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+#EXTINF:-1 group-title="VOD HD",Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Land of the Lost (2009)
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+#EXTINF:-1 group-title="VOD HD",Law Abiding Citizen (2009)
+http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 group-title="VOD HD",Madea Goes to Jail (2009)
+http://www.deadlyblogger.com/NewRelease/madea1.mp4
+#EXTINF:-1 group-title="VOD HD",Orphan (2009)
+http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
+#EXTINF:-1 group-title="VOD HD",Saw VI (2009)
+http://www.deadlyblogger.com/NewRelease/saw6.mp4
+#EXTINF:-1 group-title="VOD HD",The Chinese Room (2009)
+https://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:-1 group-title="VOD HD",The Hangover (2009)
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 group-title="VOD HD",The Taking of Pelham 123 (2009)
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+#EXTINF:-1 group-title="VOD HD",Transformers: Revenge of the Fallen (2009)
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn 3 - Left for Dead (2009)
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+#EXTINF:-1 group-title="VOD HD",X-Men Origins: Wolverine (2009)
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1 group-title="VOD HD",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Iron Man (2008)
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+#EXTINF:-1 group-title="VOD HD",Meet the Browns (2008)
+http://www.deadlyblogger.com/NewRelease/browns1.mp4
+#EXTINF:-1 group-title="VOD HD",Saw V (2008)
+http://www.deadlyblogger.com/NewRelease/saw5.mp4
+#EXTINF:-1 group-title="VOD HD",Semi-Pro (2008)
+http://www.deadlyblogger.com/NewRelease/semipro.mp4
+#EXTINF:-1 group-title="VOD HD",Seven Pounds (2008)
+http://www.deadlyblogger.com/NewRelease/sevenp.mp4
+#EXTINF:-1 group-title="VOD HD",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 group-title="VOD HD",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+#EXTINF:-1 group-title="VOD HD",Step Brothers (2008)
+http://www.deadlyblogger.com/NewRelease/stepbro.mp4
+#EXTINF:-1 group-title="VOD HD",The House Bunny (2008)
+http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
+#EXTINF:-1 group-title="VOD HD",American Gangster (2007)
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 group-title="VOD HD",Blades of Glory (2007)
+http://www.deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:-1 group-title="VOD HD",Hot Fuzz (2007)
+http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
+#EXTINF:-1 group-title="VOD HD",Am Legend (2007)
+http://www.deadlyblogger.com/NewRelease/iaml.mp4
+#EXTINF:-1 group-title="VOD HD",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Ratatouille (2007)
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 group-title="VOD HD",Saw IV (2007)
+http://www.deadlyblogger.com/NewRelease/saw4.mp4
+#EXTINF:-1 group-title="VOD HD",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",The Bourne Ultimatum (2007)
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+#EXTINF:-1 group-title="VOD HD",Transformers (2007)
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn 2: Dead End (2007)
+http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
+#EXTINF:-1 group-title="VOD HD",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20%5Barsenaloyal%5D.mp4
+#EXTINF:-1 group-title="VOD HD",Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 group-title="VOD HD",Deja Vu (2006)
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:-1 group-title="VOD HD",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Killa Season (2006)
+http://www.deadlyblogger.com/NewRelease/killa1.mp4
+#EXTINF:-1 group-title="VOD HD",Madea's Family Reunion (2006)
+http://www.deadlyblogger.com/NewRelease/madea2.mp4
+#EXTINF:-1 group-title="VOD HD",Mickey Saves Santa (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 group-title="VOD HD",Saw III (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 group-title="VOD HD",Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="VOD HD",Talladega Nights: The Ballad of Ricky Bobby (2006)
+http://www.deadlyblogger.com/NewRelease/talla.mp4
+#EXTINF:-1 group-title="VOD HD",The Fast and the Furious - Tokyo Drift (2006)
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
+#EXTINF:-1 group-title="VOD HD",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",X-Men: The Last Stand (2006)
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1 group-title="VOD HD",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Bewitched (2005)
+http://www.deadlyblogger.com/NewRelease/bewitched.mp4
+#EXTINF:-1 group-title="VOD HD",Dirty (2005)
+http://www.deadlyblogger.com/NewRelease/dirty1.mp4
+#EXTINF:-1 group-title="VOD HD",Four Brothers (2005)
+http://www.deadlyblogger.com/NewRelease/fourb.mp4
+#EXTINF:-1 group-title="VOD HD",Saw II (2005)
+http://www.deadlyblogger.com/NewRelease/saw2.mp4
+#EXTINF:-1 group-title="VOD HD",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+#EXTINF:-1 group-title="VOD HD",Anchorman: The Legend of Ron Burgundy (2004)
+http://www.deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 group-title="VOD HD",Blade: Trinity (2004)
+http://www.deadlyblogger.com/NewRelease/blade3.mp4
+#EXTINF:-1 group-title="VOD HD",Dirty Dancing - Havana Nights (2004)
+http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
+#EXTINF:-1 group-title="VOD HD",Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+#EXTINF:-1 group-title="VOD HD",Hellboy (2004)
+https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 group-title="VOD HD",I Robot (2004)
+http://www.deadlyblogger.com/NewRelease/irobot.mp4
+#EXTINF:-1 group-title="VOD HD",Kicking & Screaming (2005)
+http://www.deadlyblogger.com/NewRelease/kicking.mp4
+#EXTINF:-1 group-title="VOD HD",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Mickey's Twice Upon a Christmas (2004)
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 group-title="VOD HD",Napoleon Dynamite (2004)
+http://www.deadlyblogger.com/NewRelease/napolean.mp4
+#EXTINF:-1 group-title="VOD HD",Saw (2004)
+http://www.deadlyblogger.com/NewRelease/saw1.mp4
+#EXTINF:-1 group-title="VOD HD",The Bourne Supremacy (2004)
+http://www.deadlyblogger.com/NewRelease/bourne2.mp4
+#EXTINF:-1 group-title="VOD HD",The Day After Tomorrow (2004)
+http://www.deadlyblogger.com/NewRelease/theday2004.mp4
+#EXTINF:-1 group-title="VOD HD",The Polar Express (2004)
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 group-title="VOD HD",2 Fast 2 Furious (2003)
+http://www.deadlyblogger.com/NewRelease/fast2.mp4
+#EXTINF:-1 group-title="VOD HD",Bad Boys II (2003)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1 group-title="VOD HD",Battle Royale II - Requiem (2003)
+https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
+#EXTINF:-1 group-title="VOD HD",Elf (2003)
+http://www.deadlyblogger.com/NewRelease/elf1.mp4
+#EXTINF:-1 group-title="VOD HD",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="VOD HD",Finding Nemo (2003)
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 group-title="VOD HD",Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20%5Barsenaloyal%5D.mp4
+#EXTINF:-1 group-title="VOD HD",Malibu's Most Wanted (2003)
+http://www.deadlyblogger.com/NewRelease/malibu1.mp4
+#EXTINF:-1 group-title="VOD HD",Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+#EXTINF:-1 group-title="VOD HD",Old School (2003)
+http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
+#EXTINF:-1 group-title="VOD HD",The Lord of the Rings: The Return of the King (2003)
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+#EXTINF:-1 group-title="VOD HD",The Matrix Reloaded (2003)
+http://www.deadlyblogger.com/NewRelease/matrix2.mp4
+#EXTINF:-1 group-title="VOD HD",The Matrix Revolutions (2003)
+http://www.deadlyblogger.com/NewRelease/matrix3.mp4
+#EXTINF:-1 group-title="VOD HD",Wrong Turn (2003)
+http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
+#EXTINF:-1 group-title="VOD HD",X2 (2003)
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 group-title="VOD HD",28 Days Later (2002)
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 group-title="VOD HD",Blade II (2002)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+#EXTINF:-1 group-title="VOD HD",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+#EXTINF:-1 group-title="VOD HD",Friday After Next (2002)
+http://www.deadlyblogger.com/NewRelease/friday3.mp4
+#EXTINF:-1 group-title="VOD HD",Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+#EXTINF:-1 group-title="VOD HD",Home Alone 4 (2002)
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
+#EXTINF:-1 group-title="VOD HD",Men in Black II (2002)
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+#EXTINF:-1 group-title="VOD HD",Paid in Full (2002)
+http://www.deadlyblogger.com/NewRelease/paidin.mp4
+#EXTINF:-1 group-title="VOD HD",Shottas (2002)
+http://www.deadlyblogger.com/NewRelease/shottas.mp4
+#EXTINF:-1 group-title="VOD HD",Tarzan & Jane (2002)
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 group-title="VOD HD",The Bourne Identity (2002)
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+#EXTINF:-1 group-title="VOD HD",The Lord of the Rings: The Two Towers (2002)
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+#EXTINF:-1 group-title="VOD HD",The Powerpuff Girls Movie (2002)
+https://archive.org/download/PowerpuffGirlsMovie/The%20Powerpuff%20Girls%20Movie.mp4
+#EXTINF:-1 group-title="VOD HD",Ali (2001)
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 group-title="VOD HD",Jay and Silent Bob Strike Back (2001)
+http://www.deadlyblogger.com/NewRelease/strikeback.mp4
+#EXTINF:-1 group-title="VOD HD",Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 group-title="VOD HD",Planet of the Apes (2001)
+http://www.deadlyblogger.com/NewRelease/apes6.mp4
+#EXTINF:-1 group-title="VOD HD",Pootie Tang (2001)
+http://www.deadlyblogger.com/NewRelease/pootie.mp4
+#EXTINF:-1 group-title="VOD HD",Return to Cabin by the Lake (2001)
+http://www.deadlyblogger.com/NewRelease/cabin2.mp4
+#EXTINF:-1 group-title="VOD HD",The Animal (2001)
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+#EXTINF:-1 group-title="VOD HD",The Fast and the Furious (2001)
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:-1 group-title="VOD HD",The Lord of the Rings: The Fellowship of the Ring (2001)
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+#EXTINF:-1 group-title="VOD HD",Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
+#EXTINF:-1 group-title="VOD HD",Baller Blockin' (2000)
+http://www.deadlyblogger.com/NewRelease/blockin.mp4
+#EXTINF:-1 group-title="VOD HD",Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+#EXTINF:-1 group-title="VOD HD",Cabin by the Lake (2000)
+http://www.deadlyblogger.com/NewRelease/cabin1.mp4
+#EXTINF:-1 group-title="VOD HD",How the Grinch Stole Christmas (2000)
+http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
+#EXTINF:-1 group-title="VOD HD",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="VOD HD",Next Friday (2000)
+http://www.deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 group-title="VOD HD",Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20%5Barsenaloyal%5D.mp4
+#EXTINF:-1 group-title="VOD HD",X-Men (2000)
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+
+Kilde: https://glot.io/snippets/friozrn744/raw 
+
+
+
 
  
 
